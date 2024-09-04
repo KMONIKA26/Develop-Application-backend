@@ -282,6 +282,12 @@ You can use **Postman** or **curl** to test the API endpoints.
      http://127.0.0.1:5000/api/users/{user_id}/accounts/{account_id}/expenses
    ```
 
+## API Documentation
+For detailed API documentation, refer to the following Postman links:
+- [Blogging Platform API Documentation](https://documenter.getpostman.com/view/26079619/2sA3duHDrm)
+- [Expense Management System API Documentation](https://documenter.getpostman.com/view/8091590/2s8YRnmXTd)
+
+
 ## Contributing
 
 Feel free to open issues or submit pull requests with improvements.
